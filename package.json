@@ -1,0 +1,37 @@
+{
+  "name": "jynx-theme",
+  "displayName": "Jynx (Arcane)",
+  "description": "A dark VS Code theme inspired by Jinx from Arcane — electric blue, hot pink, and shimmer purple against the gritty dark of Zaun.",
+  "version": "1.0.0",
+  "publisher": "jynx-theme",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "arcane",
+    "jinx",
+    "jynx",
+    "dark",
+    "neon",
+    "purple",
+    "pink",
+    "blue"
+  ],
+  "galleryBanner": {
+    "color": "#0C2730",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jynx (Arcane)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jynx-color-theme.json"
+      }
+    ]
+  }
+}

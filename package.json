@@ -1,7 +1,7 @@
 {
   "name": "jynx-theme",
   "displayName": "Jynx (Arcane)",
-  "description": "A dark VS Code theme inspired by Jinx from Arcane — electric blue, hot pink, and shimmer purple against the gritty dark of Zaun.",
+  "description": "A neon cyberpunk dark VS Code theme — electric pink accents over a deep purple-black, with magenta/cyan/lime/yellow neon syntax.",
   "version": "1.0.0",
   "publisher": "jynx-theme",
   "license": "MIT",
@@ -12,25 +12,41 @@
     "Themes"
   ],
   "keywords": [
-    "arcane",
-    "jinx",
+    "cyberpunk",
+    "neon",
     "jynx",
     "dark",
-    "neon",
-    "purple",
     "pink",
-    "blue"
+    "magenta",
+    "cyan",
+    "synthwave",
+    "purple"
   ],
   "galleryBanner": {
-    "color": "#0C2730",
+    "color": "#0d1117",
     "theme": "dark"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Jynx (Arcane)",
+        "label": "Jynx — Neon Punk",
         "uiTheme": "vs-dark",
         "path": "./themes/jynx-color-theme.json"
+      },
+      {
+        "label": "Jynx — Cyberpunk Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jynx-cyberpunk-neon-color-theme.json"
+      },
+      {
+        "label": "Jynx — Cyberpunk Neon (Blue/Gold)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jynx-cyberpunk-neon-bluegold-color-theme.json"
+      },
+      {
+        "label": "Jynx — Arcane Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jynx-arcane-teal-color-theme.json"
       }
     ]
   }

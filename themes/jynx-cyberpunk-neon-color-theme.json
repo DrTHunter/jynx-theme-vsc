@@ -146,9 +146,9 @@
     "button.secondaryBackground": "#2A2547",
     "button.secondaryForeground": "#ECECF2",
 
-    "input.background": "#0A0814",
+    "input.background": "#08060F",
     "input.foreground": "#ECECF2",
-    "input.border": "#2A2547",
+    "input.border": "#08060F",
     "input.placeholderForeground": "#6B6490",
     "inputOption.activeBorder": "#FF0099",
     "inputOption.activeBackground": "#FF009933",

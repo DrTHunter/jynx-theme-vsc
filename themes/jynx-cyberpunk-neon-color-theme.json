@@ -148,7 +148,7 @@
 
     "input.background": "#08060F",
     "input.foreground": "#ECECF2",
-    "input.border": "#08060F",
+    "input.border": "#FF0099",
     "input.placeholderForeground": "#6B6490",
     "inputOption.activeBorder": "#FF0099",
     "inputOption.activeBackground": "#FF009933",

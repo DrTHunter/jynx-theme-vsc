@@ -482,7 +482,7 @@
       }
     },
     {
-      "name": "Markup structure punctuation (## | -- > gold)",
+      "name": "Markup structure punctuation (## | -- > yellow)",
       "scope": [
         "punctuation.definition.heading.markdown",
         "punctuation.definition.table",
@@ -491,7 +491,7 @@
         "punctuation.definition.quote.end.markdown"
       ],
       "settings": {
-        "foreground": "#E6B450"
+        "foreground": "#fde047"
       }
     },
     {

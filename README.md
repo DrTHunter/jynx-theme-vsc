@@ -1,42 +1,41 @@
-# Jynx — Arcane / Cyberpunk Themes for VS Code
+# Jynx — Cyberpunk Themes for VS Code
 
 A set of dark themes inspired by **Jinx from Arcane** and neon cyberpunk: electric pink accents, deep gritty backgrounds, and high-contrast neon syntax highlighting.
 
 ## Variants
 
-The extension ships four color themes — pick one from the theme picker:
+The extension ships three color themes — pick one from the theme picker:
 
 | Theme | Vibe |
 |-------|------|
 | **Jynx — Neon Punk** | The flagship: electric pink over deep purple-black with magenta/cyan/lime/yellow neon syntax |
 | **Jynx — Cyberpunk Neon** | A brighter, higher-voltage cyberpunk take |
 | **Jynx — Cyberpunk Neon (Blue/Gold)** | Cyberpunk palette with blue + gold accents |
-| **Jynx — Arcane Teal** | The original Arcane look: Powder pink against the dark teals of Zaun |
 
-## Palette (Arcane Teal)
+## Palette (Neon Punk)
 
-**Software / UI** — Powder pink against the dark teals of Zaun:
+**UI** — electric pink over deep purple-black:
 
 | Role | Hex |
 |------|-----|
 | Pink accent (cursor, badges, active borders) | `#FF0099` |
-| Chrome (activity bar, sidebar, tabs, status bar) | `#08191D` |
-| Editor background | `#0C2730` |
-| Line highlight / elevated | `#11313C` |
-| Borders / selection | `#1C4452` |
+| Chrome (activity bar, sidebar, tabs, status bar) | `#08060F` |
+| Editor background | `#0D0B1A` |
+| Line highlight / elevated | `#161228` |
+| Borders / selection | `#2A2547` |
 
-**Code text** — pink, white, green, blue:
+**Code text** — pink, white, green, cyan:
 
 | Role | Hex |
 |------|-----|
-| Default text / variables | `#E6E6E6` (white) |
-| Keywords / tags / storage | `#FF0099` (pink) |
-| Strings / numbers / constants | `#00E000` (green) |
-| Functions / types | `#5B6CFF` (blue) |
-| Comments | `#52707A` (muted teal) |
-| Errors | `#FF3D6E` |
-
-> The blue is lightened slightly from a pure blue swatch so it stays legible on the dark teal background.
+| Default text / variables | `#ECECF2` (white) |
+| Keywords / tags / control | `#FF0099` (pink) |
+| Strings | `#00E000` (neon green) |
+| Functions | `#00ffff` (electric cyan) |
+| Classes / types | `#c084fc` (lavender) |
+| Numbers | `#ff9500` (orange) |
+| Comments | `#a78bfa` (purple italic) |
+| Markdown `##` / `**` / `\|` / `---` | `#fde047` (yellow) |
 
 ## Install & try it locally
 

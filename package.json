@@ -42,11 +42,6 @@
         "label": "Jynx — Cyberpunk Neon (Blue/Gold)",
         "uiTheme": "vs-dark",
         "path": "./themes/jynx-cyberpunk-neon-bluegold-color-theme.json"
-      },
-      {
-        "label": "Jynx — Arcane Teal",
-        "uiTheme": "vs-dark",
-        "path": "./themes/jynx-arcane-teal-color-theme.json"
       }
     ]
   }

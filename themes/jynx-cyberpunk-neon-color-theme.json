@@ -88,7 +88,7 @@
 
     "sideBar.background": "#08060F",
     "sideBar.foreground": "#C2BEDA",
-    "sideBar.border": "#FF0099",
+    "sideBar.border": "#08060F",
     "sideBarTitle.foreground": "#FF0099",
     "sideBarSectionHeader.background": "#0D0B1A",
     "sideBarSectionHeader.foreground": "#00E000",

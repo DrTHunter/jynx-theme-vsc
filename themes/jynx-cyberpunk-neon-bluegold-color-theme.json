@@ -486,7 +486,6 @@
       "name": "Markup structure punctuation (## | -- > gold)",
       "scope": [
         "punctuation.definition.heading.markdown",
-        "markup.table",
         "punctuation.definition.table",
         "punctuation.separator.table",
         "punctuation.definition.quote.begin.markdown",
@@ -494,6 +493,15 @@
       ],
       "settings": {
         "foreground": "#E6B450"
+      }
+    },
+    {
+      "name": "Markdown table cell text (white, pipes/dashes stay gold)",
+      "scope": [
+        "markup.table"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
       }
     },
     {

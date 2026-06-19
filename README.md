@@ -1,8 +1,19 @@
-# Jynx — Arcane Theme for VS Code
+# Jynx — Arcane / Cyberpunk Themes for VS Code
 
-A dark theme inspired by **Jinx from Arcane**. Electric-blue hair, hot-pink Powder tattoos, and shimmer purple set against the deep, gritty dark of Zaun.
+A set of dark themes inspired by **Jinx from Arcane** and neon cyberpunk: electric pink accents, deep gritty backgrounds, and high-contrast neon syntax highlighting.
 
-## Palette
+## Variants
+
+The extension ships four color themes — pick one from the theme picker:
+
+| Theme | Vibe |
+|-------|------|
+| **Jynx — Neon Punk** | The flagship: electric pink over deep purple-black with magenta/cyan/lime/yellow neon syntax |
+| **Jynx — Cyberpunk Neon** | A brighter, higher-voltage cyberpunk take |
+| **Jynx — Cyberpunk Neon (Blue/Gold)** | Cyberpunk palette with blue + gold accents |
+| **Jynx — Arcane Teal** | The original Arcane look: Powder pink against the dark teals of Zaun |
+
+## Palette (Arcane Teal)
 
 **Software / UI** — Powder pink against the dark teals of Zaun:
 
@@ -29,16 +40,17 @@ A dark theme inspired by **Jinx from Arcane**. Electric-blue hair, hot-pink Powd
 
 ## Install & try it locally
 
-No build step needed — it's a static theme.
+No build step needed — these are static themes.
 
 1. Copy this folder into your VS Code extensions directory:
    - Windows: `%USERPROFILE%\.vscode\extensions\jynx-theme`
+   - macOS / Linux: `~/.vscode/extensions/jynx-theme`
 2. Restart VS Code.
-3. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **Jynx (Arcane)**.
+3. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → pick a **Jynx** variant.
 
 ### Or preview without installing
 
-Open this folder in VS Code and press `F5` to launch an Extension Development Host, then pick the theme there.
+Open this folder in VS Code and press `F5` to launch an Extension Development Host, then pick a theme there.
 
 ### Package as a `.vsix` (optional)
 
